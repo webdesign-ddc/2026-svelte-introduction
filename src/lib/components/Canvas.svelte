@@ -11,7 +11,7 @@
         context.clearRect(0, 0, canvas.width, canvas.height)
 
         context.fillStyle = color
-        context.clearRect(0, 0, size, size)
+        context.fillRect(0, 0, size, size)
     })
 </script>
 
