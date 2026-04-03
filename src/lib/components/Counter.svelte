@@ -14,6 +14,8 @@
     }
 </script>
 
+<h3>Counter</h3>
+
 <button onclick={increment}>
     clicks: {count}
 </button>
